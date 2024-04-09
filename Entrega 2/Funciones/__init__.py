@@ -1,15 +1,3 @@
-jugadores = {
-    "Names" : ["Agustin"," Yanina", "Andrés", "Ariadna", "Bautista", "CAROLINA",
-"CESAR", "David", "Diego", "Dolores", "DYLAN", "ELIANA", "Emanuel", "Fabián", "Noelia",
-"Francisca", "FEDERICO", "Fernanda", "GONZALO", "Nancy"],
-    "Goals" : [0, 10, 4, 0, 5, 14, 0, 0, 7, 2, 1, 1, 1, 5, 6, 1, 1, 2, 0,
-11],
-    "Goals_avoided" : [0, 2, 0, 0, 5, 2, 0, 0, 1, 2, 0, 5, 5, 0, 1, 0, 2,
-3, 0, 0],
-    "Assists" : [0, 5, 1, 0, 5, 2, 0, 0, 1, 2, 1, 5, 5, 0, 1, 0, 2, 3, 1,
-0]
-}
-
 
 #Funcion para determinar el goleador/a. Inciso 2
 def info_goleador(info_jugadores):
